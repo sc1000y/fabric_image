@@ -1,6 +1,6 @@
 # fabric_image
 IBM Hyperledger fabric的镜像
-我知道你们都恨安装那一堆东西，npm,nodejs,还有无穷无尽的依赖们，所以我封装了一个这个，拿去用吧
+我知道你们都恨安装那一堆东西，npm,nodejs,还有无穷无尽的依赖们，所以我封了一个这个，拿去用吧
 基于https://hyperledger.github.io/composer/latest/installing/installing-index
 
 ubuntu-16.04.4,已安装playground
